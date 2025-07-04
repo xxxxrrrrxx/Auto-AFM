@@ -1,0 +1,8 @@
+2025-05-26 21:29:30,504 - INFO - 日志文件: C:\Users\17105\Desktop\Long-timeUnet\logs\file_processor.log
+2025-05-26 21:29:30,504 - INFO - Python版本: 3.8.16 | packaged by conda-forge | (default, Feb  1 2023, 15:53:35) [MSC v.1929 64 bit (AMD64)]
+2025-05-26 21:29:30,504 - INFO - 系统编码: utf-8
+2025-05-26 21:29:30,504 - INFO - 文件系统编码: utf-8
+2025-05-26 21:29:30,504 - INFO - ==== 文件处理程序已启动 ====
+2025-05-26 21:29:30,504 - INFO - 创建目录: C:\Users\17105\Desktop\数据传输\output
+2025-05-26 21:29:30,504 - INFO - 等待远程输入目录中的新TIF文件...
+2025-05-26 21:29:30,504 - INFO - 开始同步文件: \\remote-server\data\input -> C:\Users\17105\Desktop\数据传输

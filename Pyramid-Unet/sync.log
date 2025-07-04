@@ -1,0 +1,268 @@
+2025-05-18 21:18:56 - 开始初始同步...
+2025-05-18 21:18:56 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:18:56 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:18:56 - 命令执行失败: synchronize remote "C:\Users\17105\Desktop\数据传输" "/home/jpkuser/Desktop/data-transmit"
+2025-05-18 21:18:56 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:18:56 - 初始同步完成，开始监控文件变化...
+2025-05-18 21:19:21 - 开始初始同步...
+2025-05-18 21:19:21 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:19:21 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:19:21 - 命令执行失败: synchronize remote "C:\Users\17105\Desktop\数据传输" "/home/jpkuser/Desktop/data-transmit"
+2025-05-18 21:19:21 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:19:21 - 初始同步完成，开始监控文件变化...
+2025-05-18 21:19:39 - 删除文件: C:\Users\17105\Desktop\数据传输\hmrsv5-hgcat-1.tif
+2025-05-18 21:19:39 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:19:39 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:19:39 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:19:39 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:19:39 - 命令执行失败: delete "/home/jpkuser/Desktop/data-transmit/hmrsv5-hgcat-1.tif"
+2025-05-18 21:19:39 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:19:39 - 命令执行失败: delete "/home/jpkuser/Desktop/data-transmit/hmrsv5-hgcat-1.tif"
+2025-05-18 21:19:39 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:21:19 - 开始初始同步...
+2025-05-18 21:21:19 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:21:19 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:21:19 - 命令执行失败: synchronize remote "C:\Users\17105\Desktop\数据传输" "/home/jpkuser/Desktop/data-transmit"
+2025-05-18 21:21:19 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:21:19 - 初始同步完成，开始监控文件变化...
+2025-05-18 21:32:39 - 创建文件: C:\Users\17105\Desktop\数据传输\hmrsv5-hgcat-1.tif.filepart
+2025-05-18 21:32:39 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:32:39 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:32:39 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hmrsv5-hgcat-1.tif.filepart" "/home/jpkuser/Desktop/data-transmit/hmrsv5-hgcat-1.tif.filepart"
+2025-05-18 21:32:39 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:32:39 - 修改文件: C:\Users\17105\Desktop\数据传输\hmrsv5-hgcat-1.tif.filepart
+2025-05-18 21:32:39 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:32:39 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:32:39 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hmrsv5-hgcat-1.tif.filepart" "/home/jpkuser/Desktop/data-transmit/hmrsv5-hgcat-1.tif.filepart"
+2025-05-18 21:32:39 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:49:35 - 删除文件: C:\Users\17105\Desktop\数据传输\hmrsv5-hgcat-1.tif
+2025-05-18 21:49:35 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:49:35 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:49:35 - 命令执行失败: delete "/home/jpkuser/Desktop/data-transmit/hmrsv5-hgcat-1.tif"
+2025-05-18 21:49:35 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:12 - 创建文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:12 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:12 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:12 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:12 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:12 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:12 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:12 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:12 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:12 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:16 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:16 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:16 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:16 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:16 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:17 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:17 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:17 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:17 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:17 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:26 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:26 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:26 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:26 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:26 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:27 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:27 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:27 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:27 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:27 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:36 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:36 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:36 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:37 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:37 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:37 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:37 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:37 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:37 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:37 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:46 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:47 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:47 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:47 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:47 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:47 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:47 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:47 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:47 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:47 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:57 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:57 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:57 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:57 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:57 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:57 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:50:57 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:50:57 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:50:57 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:50:57 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:07 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:51:07 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:51:07 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:07 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:51:07 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:07 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:51:07 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:51:07 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:07 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:51:07 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:17 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:51:17 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:51:17 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:17 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:51:17 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:17 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:51:17 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:51:17 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:17 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:51:17 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:27 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:51:27 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:51:27 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:27 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:51:27 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:27 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 21:51:27 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 21:51:27 - 错误: 系统找不到指定的路径。
+
+2025-05-18 21:51:27 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 21:51:27 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:00:52 - 删除文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.tif
+2025-05-18 22:00:52 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:00:52 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:00:52 - 命令执行失败: delete "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.tif"
+2025-05-18 22:00:52 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:03:22 - 创建文件: C:\Users\17105\Desktop\数据传输\803.xlsx
+2025-05-18 22:03:22 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:03:22 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:03:22 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\803.xlsx" "/home/jpkuser/Desktop/data-transmit/803.xlsx"
+2025-05-18 22:03:22 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:03:23 - 修改文件: C:\Users\17105\Desktop\数据传输\803.xlsx
+2025-05-18 22:03:23 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:03:23 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:03:23 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\803.xlsx" "/home/jpkuser/Desktop/data-transmit/803.xlsx"
+2025-05-18 22:03:23 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:04:35 - 创建文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.xlsx
+2025-05-18 22:04:35 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:04:35 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:04:35 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.xlsx" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.xlsx"
+2025-05-18 22:04:35 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:04:36 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.xlsx
+2025-05-18 22:04:36 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:04:36 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:04:36 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-2.xlsx" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.xlsx"
+2025-05-18 22:04:36 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:04:56 - 删除文件: C:\Users\17105\Desktop\数据传输\803.xlsx
+2025-05-18 22:04:56 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:04:56 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:04:56 - 命令执行失败: delete "/home/jpkuser/Desktop/data-transmit/803.xlsx"
+2025-05-18 22:04:56 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:05:02 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat.tif
+2025-05-18 22:05:02 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:05:02 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:05:02 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat.tif" "/home/jpkuser/Desktop/data-transmit/hacat.tif"
+2025-05-18 22:05:02 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:05:40 - 创建文件: C:\Users\17105\Desktop\数据传输\803.xlsx
+2025-05-18 22:05:40 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:05:40 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:05:40 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\803.xlsx" "/home/jpkuser/Desktop/data-transmit/803.xlsx"
+2025-05-18 22:05:40 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:05:53 - 创建文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-1.xlsx
+2025-05-18 22:05:53 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:05:53 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:05:54 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-1.xlsx" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-1.xlsx"
+2025-05-18 22:05:54 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:05:54 - 修改文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-1.xlsx
+2025-05-18 22:05:54 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:05:54 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:05:54 - 命令执行失败: put "C:\Users\17105\Desktop\数据传输\hacat-mcf-1.xlsx" "/home/jpkuser/Desktop/data-transmit/hacat-mcf-1.xlsx"
+2025-05-18 22:05:54 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:06:53 - 删除文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-2.xlsx
+2025-05-18 22:06:53 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:06:53 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:06:53 - 命令执行失败: delete "/home/jpkuser/Desktop/data-transmit/hacat-mcf-2.xlsx"
+2025-05-18 22:06:53 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:06:57 - 删除文件: C:\Users\17105\Desktop\数据传输\hacat-mcf-1.xlsx
+2025-05-18 22:06:57 - 命令执行失败: open sftp://jpkuser:jpkjpk@host/
+2025-05-18 22:06:57 - 错误: 系统找不到指定的路径。
+
+2025-05-18 22:06:57 - 命令执行失败: delete "/home/jpkuser/Desktop/data-transmit/hacat-mcf-1.xlsx"
+2025-05-18 22:06:57 - 错误: 系统找不到指定的路径。
+

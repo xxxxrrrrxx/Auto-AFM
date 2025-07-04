@@ -1,0 +1,29 @@
+2025-05-26 22:42:22,226 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:42:22,226 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\1.tif.tif
+2025-05-26 22:42:22,226 - predict - INFO - 创建目录: result_20250526_224222
+2025-05-26 22:42:22,226 - predict - INFO - 创建目录: result_20250526_224222/nucleus_boundary
+2025-05-26 22:42:22,226 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:42:22,788 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\1.tif.tif, 大小: 7074911 字节
+2025-05-26 22:42:23,121 - predict - INFO - 开始模型推理...
+2025-05-26 22:42:23,510 - predict - INFO - 保存模型输出: result_20250526_224222/result.jpg
+2025-05-26 22:42:23,540 - predict - INFO - 输出文件大小: 5191 字节
+2025-05-26 22:42:23,541 - predict - INFO - 处理输出图像...
+2025-05-26 22:42:23,557 - predict - INFO - 保存调整后的图像: result_20250526_224222/output_image.jpg
+2025-05-26 22:42:23,561 - predict - INFO - 掩码文件大小: 69631 字节
+2025-05-26 22:42:23,561 - predict - INFO - 绘制轮廓并保存: result_20250526_224222/nucleus_boundary/1.tif.tif
+2025-05-26 22:42:23,561 - predict - INFO - 加载图像: C:\Users\17105\Desktop\1.tif.tif, 修改时间: Mon May 26 22:33:35 2025
+2025-05-26 22:42:23,577 - predict - INFO - 加载图像: result_20250526_224222/output_image.jpg, 修改时间: Mon May 26 22:42:23 2025
+2025-05-26 22:42:23,622 - predict - INFO - 绘制了 53 个轮廓
+2025-05-26 22:42:23,685 - predict - INFO - 轮廓图像保存成功，大小: 2018510 字节
+2025-05-26 22:42:23,697 - predict - INFO - 转换为二值图像并保存: result_20250526_224222/binary_image.jpg
+2025-05-26 22:42:23,697 - predict - INFO - 加载图像: result_20250526_224222/output_image.jpg, 修改时间: Mon May 26 22:42:23 2025
+2025-05-26 22:42:23,719 - predict - INFO - 二值图像保存成功，大小: 100358 字节
+2025-05-26 22:42:23,719 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:42:31,620 - predict - ERROR - 处理过程中发生错误: Command '['python', 'template_matching.py', 'result_20250526_224222']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "C:/Users/17105/Desktop/Long-timeUnet/predict.py", line 127, in process_image
+    subprocess.run(['python', 'template_matching.py', result_dir], check=True)
+  File "E:\anaconda\envs\Unet\lib\subprocess.py", line 516, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python', 'template_matching.py', 'result_20250526_224222']' returned non-zero exit status 1.
+2025-05-26 22:42:31,628 - predict - ERROR - 程序执行失败!

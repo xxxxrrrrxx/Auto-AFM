@@ -1,0 +1,23 @@
+2025-05-26 22:40:01,743 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:40:01,743 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\1.tif.tif
+2025-05-26 22:40:01,743 - predict - INFO - 创建目录: result_20250526_224001
+2025-05-26 22:40:01,743 - predict - INFO - 创建目录: result_20250526_224001/nucleus_boundary
+2025-05-26 22:40:01,743 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:40:02,318 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\1.tif.tif, 大小: 7074911 字节
+2025-05-26 22:40:02,636 - predict - INFO - 开始模型推理...
+2025-05-26 22:40:03,035 - predict - INFO - 保存模型输出: result_20250526_224001/result.jpg
+2025-05-26 22:40:03,053 - predict - INFO - 输出文件大小: 5191 字节
+2025-05-26 22:40:03,053 - predict - INFO - 处理输出图像...
+2025-05-26 22:40:03,075 - predict - INFO - 保存调整后的图像: result_20250526_224001/output_image.jpg
+2025-05-26 22:40:03,083 - predict - INFO - 掩码文件大小: 69631 字节
+2025-05-26 22:40:03,083 - predict - INFO - 绘制轮廓并保存: result_20250526_224001/nucleus_boundary/1.tif.tif
+2025-05-26 22:40:03,083 - predict - INFO - 加载图像: C:\Users\17105\Desktop\1.tif.tif, 修改时间: Mon May 26 22:33:35 2025
+2025-05-26 22:40:03,097 - predict - INFO - 加载图像: result_20250526_224001/output_image.jpg, 修改时间: Mon May 26 22:40:03 2025
+2025-05-26 22:40:03,138 - predict - INFO - 绘制了 53 个轮廓
+2025-05-26 22:40:03,202 - predict - INFO - 轮廓图像保存成功，大小: 2018510 字节
+2025-05-26 22:40:03,202 - predict - INFO - 转换为二值图像并保存: result_20250526_224001/binary_image.jpg
+2025-05-26 22:40:03,202 - predict - INFO - 加载图像: result_20250526_224001/output_image.jpg, 修改时间: Mon May 26 22:40:03 2025
+2025-05-26 22:40:03,239 - predict - INFO - 二值图像保存成功，大小: 100358 字节
+2025-05-26 22:40:03,239 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:40:11,242 - predict - INFO - 处理完成!
+2025-05-26 22:40:11,249 - predict - INFO - 程序执行成功! 结果保存在: result_20250526_224001

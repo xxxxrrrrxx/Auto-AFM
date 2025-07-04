@@ -1,0 +1,179 @@
+2025-05-26 21:18:04,731 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 21:18:04,731 - predict - INFO - 从命令行获取输入路径: C:/Users/17105/AppData/Local/Temp/file_processor/1748265481_1.tif.tif
+2025-05-26 21:18:04,731 - predict - INFO - 加载模型权重: params/Pyramid.pth
+2025-05-26 21:18:05,289 - predict - INFO - 加载输入图像: C:/Users/17105/AppData/Local/Temp/file_processor/1748265481_1.tif.tif
+2025-05-26 21:18:05,593 - predict - INFO - 开始模型推理...
+2025-05-26 21:18:05,970 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 21:18:05,988 - predict - INFO - 处理输出图像...
+2025-05-26 21:18:06,006 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 21:18:06,018 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1748265481_1.tif.tif
+2025-05-26 21:18:06,068 - predict - INFO - 绘制了 63 个轮廓
+2025-05-26 21:18:06,132 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 21:18:06,214 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 21:18:14,215 - predict - INFO - 处理完成!
+2025-05-26 21:18:14,222 - predict - INFO - 程序执行成功!
+2025-05-26 21:29:58,580 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 21:29:58,580 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:29:58,580 - predict - INFO - 加载模型权重: params/Pyramid.pth
+2025-05-26 21:29:59,329 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:29:59,817 - predict - INFO - 开始模型推理...
+2025-05-26 21:30:00,209 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 21:30:00,223 - predict - INFO - 处理输出图像...
+2025-05-26 21:30:00,244 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 21:30:00,252 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1.tif.tif
+2025-05-26 21:30:00,252 - predict - WARNING - 无法使用OpenCV读取图像，尝试使用PIL: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:30:00,372 - predict - INFO - 绘制了 63 个轮廓
+2025-05-26 21:30:00,439 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 21:30:00,486 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 21:30:08,554 - predict - INFO - 处理完成!
+2025-05-26 21:30:08,556 - predict - INFO - 程序执行成功!
+2025-05-26 21:30:35,078 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 21:30:35,078 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:30:35,078 - predict - ERROR - 输入文件不存在: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:32:34,116 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 21:32:34,116 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:32:34,116 - predict - INFO - 加载模型权重: params/Pyramid.pth
+2025-05-26 21:32:34,686 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:32:35,002 - predict - INFO - 开始模型推理...
+2025-05-26 21:32:35,369 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 21:32:35,386 - predict - INFO - 处理输出图像...
+2025-05-26 21:32:35,400 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 21:32:35,415 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1.tif.tif
+2025-05-26 21:32:35,415 - predict - WARNING - 无法使用OpenCV读取图像，尝试使用PIL: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:32:35,503 - predict - INFO - 绘制了 56 个轮廓
+2025-05-26 21:32:35,575 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 21:32:35,605 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 21:32:43,564 - predict - INFO - 处理完成!
+2025-05-26 21:32:43,564 - predict - INFO - 程序执行成功!
+2025-05-26 21:32:50,054 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 21:32:50,054 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:32:50,054 - predict - ERROR - 输入文件不存在: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 21:35:58,282 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 21:35:58,282 - predict - INFO - 从命令行获取输入路径: C:/Users/17105/AppData/Local/Temp/file_processor/1748266555_1.tif.tif
+2025-05-26 21:35:58,284 - predict - INFO - 加载模型权重: params/Pyramid.pth
+2025-05-26 21:35:58,838 - predict - INFO - 加载输入图像: C:/Users/17105/AppData/Local/Temp/file_processor/1748266555_1.tif.tif
+2025-05-26 21:35:59,189 - predict - INFO - 开始模型推理...
+2025-05-26 21:35:59,634 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 21:35:59,644 - predict - INFO - 处理输出图像...
+2025-05-26 21:35:59,678 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 21:35:59,686 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1748266555_1.tif.tif
+2025-05-26 21:35:59,773 - predict - INFO - 绘制了 63 个轮廓
+2025-05-26 21:35:59,852 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 21:35:59,881 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 21:36:09,924 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 21:36:09,924 - predict - INFO - 从命令行获取输入路径: C:/Users/17105/AppData/Local/Temp/file_processor/1748266566_1.tif.tif
+2025-05-26 21:36:09,924 - predict - INFO - 加载模型权重: params/Pyramid.pth
+2025-05-26 21:36:10,497 - predict - INFO - 加载输入图像: C:/Users/17105/AppData/Local/Temp/file_processor/1748266566_1.tif.tif
+2025-05-26 21:36:10,820 - predict - INFO - 开始模型推理...
+2025-05-26 21:36:11,175 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 21:36:11,190 - predict - INFO - 处理输出图像...
+2025-05-26 21:36:11,207 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 21:36:11,213 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1748266566_1.tif.tif
+2025-05-26 21:36:11,269 - predict - INFO - 绘制了 63 个轮廓
+2025-05-26 21:36:11,341 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 21:36:11,368 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 21:36:19,286 - predict - INFO - 处理完成!
+2025-05-26 21:36:19,286 - predict - INFO - 程序执行成功!
+2025-05-26 22:13:48,754 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:13:48,754 - predict - INFO - 从命令行获取输入路径: C:/Users/17105/AppData/Local/Temp/file_processor/1748268825_1.tif.tif
+2025-05-26 22:13:48,754 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:13:49,327 - predict - INFO - 加载输入图像: C:/Users/17105/AppData/Local/Temp/file_processor/1748268825_1.tif.tif
+2025-05-26 22:13:49,646 - predict - INFO - 开始模型推理...
+2025-05-26 22:13:50,010 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 22:13:50,032 - predict - INFO - 处理输出图像...
+2025-05-26 22:13:50,042 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 22:13:50,057 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1748268825_1.tif.tif
+2025-05-26 22:13:50,107 - predict - INFO - 绘制了 65 个轮廓
+2025-05-26 22:13:50,174 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 22:13:50,200 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:13:58,193 - predict - INFO - 处理完成!
+2025-05-26 22:13:58,193 - predict - INFO - 程序执行成功!
+2025-05-26 22:15:56,360 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:15:56,360 - predict - INFO - 从命令行获取输入路径: C:/Users/17105/AppData/Local/Temp/file_processor/1748268953_1.tif.tif
+2025-05-26 22:15:56,360 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:15:56,909 - predict - INFO - 加载输入图像: C:/Users/17105/AppData/Local/Temp/file_processor/1748268953_1.tif.tif
+2025-05-26 22:15:57,226 - predict - INFO - 开始模型推理...
+2025-05-26 22:15:57,587 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 22:15:57,608 - predict - INFO - 处理输出图像...
+2025-05-26 22:15:57,619 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 22:15:57,631 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1748268953_1.tif.tif
+2025-05-26 22:15:57,704 - predict - INFO - 绘制了 65 个轮廓
+2025-05-26 22:15:57,780 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 22:15:57,806 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:16:05,837 - predict - INFO - 处理完成!
+2025-05-26 22:16:05,837 - predict - INFO - 程序执行成功!
+2025-05-26 22:24:17,323 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:24:17,323 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:24:17,325 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:24:17,936 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:24:18,277 - predict - INFO - 开始模型推理...
+2025-05-26 22:24:18,737 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 22:24:18,751 - predict - INFO - 处理输出图像...
+2025-05-26 22:24:18,776 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 22:24:18,784 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1.tif.tif
+2025-05-26 22:24:18,784 - predict - WARNING - 无法使用OpenCV读取图像，尝试使用PIL: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:24:18,904 - predict - INFO - 绘制了 52 个轮廓
+2025-05-26 22:24:18,966 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 22:24:19,010 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:24:27,066 - predict - INFO - 处理完成!
+2025-05-26 22:24:27,066 - predict - INFO - 程序执行成功!
+2025-05-26 22:29:14,968 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:29:14,972 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:29:14,972 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:29:15,575 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:29:15,907 - predict - INFO - 开始模型推理...
+2025-05-26 22:29:16,332 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 22:29:16,346 - predict - INFO - 处理输出图像...
+2025-05-26 22:29:16,365 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 22:29:16,373 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1.tif.tif
+2025-05-26 22:29:16,375 - predict - WARNING - 无法使用OpenCV读取图像，尝试使用PIL: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:29:16,490 - predict - INFO - 绘制了 52 个轮廓
+2025-05-26 22:29:16,562 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 22:29:16,590 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:29:24,722 - predict - INFO - 处理完成!
+2025-05-26 22:29:24,723 - predict - INFO - 程序执行成功!
+2025-05-26 22:29:31,056 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:29:31,056 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:29:31,056 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:29:31,661 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:29:31,970 - predict - INFO - 开始模型推理...
+2025-05-26 22:29:32,310 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 22:29:32,311 - predict - INFO - 处理输出图像...
+2025-05-26 22:29:32,327 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 22:29:32,344 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1.tif.tif
+2025-05-26 22:29:32,344 - predict - WARNING - 无法使用OpenCV读取图像，尝试使用PIL: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:29:32,433 - predict - INFO - 绘制了 51 个轮廓
+2025-05-26 22:29:32,507 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 22:29:32,532 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:29:40,389 - predict - INFO - 处理完成!
+2025-05-26 22:29:40,389 - predict - INFO - 程序执行成功!
+2025-05-26 22:31:25,786 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:31:25,786 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:31:25,786 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:31:26,364 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:31:26,677 - predict - INFO - 开始模型推理...
+2025-05-26 22:31:27,091 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 22:31:27,109 - predict - INFO - 处理输出图像...
+2025-05-26 22:31:27,131 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 22:31:27,140 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1.tif.tif
+2025-05-26 22:31:27,142 - predict - WARNING - 无法使用OpenCV读取图像，尝试使用PIL: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:31:27,235 - predict - INFO - 绘制了 53 个轮廓
+2025-05-26 22:31:27,330 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 22:31:27,367 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:31:35,431 - predict - INFO - 处理完成!
+2025-05-26 22:31:35,431 - predict - INFO - 程序执行成功!
+2025-05-26 22:36:15,744 - predict - INFO - ==== 预测程序已启动 ====
+2025-05-26 22:36:15,744 - predict - INFO - 使用默认输入路径: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:36:15,744 - predict - INFO - 加载模型权重: C:\Users\17105\Desktop\Long-timeUnet\params\Pyramid.pth
+2025-05-26 22:36:16,303 - predict - INFO - 加载输入图像: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:36:16,622 - predict - INFO - 开始模型推理...
+2025-05-26 22:36:17,031 - predict - INFO - 保存模型输出: result/result.jpg
+2025-05-26 22:36:17,048 - predict - INFO - 处理输出图像...
+2025-05-26 22:36:17,066 - predict - INFO - 保存调整后的图像: result/output_image.jpg
+2025-05-26 22:36:17,068 - predict - INFO - 绘制轮廓并保存: result/nucleus_boundary/1.tif.tif
+2025-05-26 22:36:17,068 - predict - WARNING - 无法使用OpenCV读取图像，尝试使用PIL: C:\Users\17105\Desktop\数据传输\1.tif.tif
+2025-05-26 22:36:17,162 - predict - INFO - 绘制了 53 个轮廓
+2025-05-26 22:36:17,234 - predict - INFO - 转换为二值图像并保存: result/binary_image.jpg
+2025-05-26 22:36:17,258 - predict - INFO - 运行模板匹配脚本...
+2025-05-26 22:36:25,277 - predict - INFO - 处理完成!
+2025-05-26 22:36:25,277 - predict - INFO - 程序执行成功!
